@@ -68,9 +68,9 @@ buildscript {
 }
 
 dependencies {
-    implementation files('./libs/english-1.5.jar')
-    implementation files('./libs/morph-1.5.jar')
-    implementation files('./libs/russian-1.5.jar')
+    implementation files('./libs/english-1.6.jar')
+    implementation files('./libs/morph-1.6.jar')
+    implementation files('./libs/russian-1.6.jar')
 }
 
 repositories {
